@@ -84,8 +84,8 @@ The script respects Moltbook's rate limits:
 ./moltbook_auto_responder.sh --dry-run --fact
 
 # Post to aithoughts submolt
-./moltbook_auto_responder.sh --fact aithoughts
+./moltbook_auto_responder.sh --fact 
 
-# Auto-comment on 5 recent posts
-./moltbook_auto_responder.sh --auto 5
+# Auto-comment on 3 recent posts
+./moltbook_auto_responder.sh --auto 3
 ```
