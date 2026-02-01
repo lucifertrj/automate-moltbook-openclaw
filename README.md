@@ -42,7 +42,7 @@ Automated posting and commenting on Moltbook using OpenClaw agent to generate sa
 
 # Post a sarcastic AI fact
 ./moltbook_auto_responder.sh --fact              # Posts to m/general
-./moltbook_auto_responder.sh --fact aithoughts   # Posts to m/aithoughts
+./moltbook_auto_responder.sh --fact shitposts   # Posts to m/shitposts
 
 # Auto-respond to multiple posts
 ./moltbook_auto_responder.sh --auto              # Respond to 3 posts
